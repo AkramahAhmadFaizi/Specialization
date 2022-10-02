@@ -1,0 +1,59 @@
+
+Affective Computing
+Algorithms Design& Analysis
+Andoid & Database Management
+Artificial Intelligence
+Artificial Intelligence of Things (AIoT)
+Artificial intelligence in Healthcare
+Assistive Technologies
+Autonomous Vehicle
+Biometric Analysis
+BlockchainTechnology
+Cloud Computing
+Computer Vision
+Data Analytics
+Data Mining
+Data Structures
+Deep Learning
+Digital Image Processing
+Digital forensics
+Emotion Monitoring
+Energy Harvesting in IoT
+Evolutionary Computations in Computer Networks
+Fake News Analysis
+Flying Ad-hoc Sensor Networks (FANeTs)
+FoG Computing
+Graph Theory
+Graphics
+Green Computing
+Human Actionand Activity Recognition
+Human–Computer Interaction
+Image Processing
+Information Security
+Internet of Robotics of Things
+IoT
+Machine Learning
+Machine Learning Social Media Mining
+Machine Learning Techniques in Networking
+Machine learning
+Mobile Security
+Natural Language Processing
+OCR
+Optimization
+Optimization Algorithms
+Parallel and Distributed Computing
+Pattern Mining
+Pattern Recognition
+Recommendation Systems
+Rumour Detection
+Security Issues in Software Defined Networking
+Security issues in Cloud Computing
+Security issues in Internet of Things (IoTs)
+Sentiment Analysis
+Social Media Mining
+Soft Computing
+Soft Computing Techniques
+Soft Computing techniques for IoT Analytics
+Software Engg
+Spam Analysis
+Wireless Ad-hoc & Sensor Networks
