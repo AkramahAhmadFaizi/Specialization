@@ -1,0 +1,69 @@
+Software Engg
+Optimization
+Soft Computing Techniques
+Machine Learning
+Deep Learning
+Pattern Recognition
+Computer Vision
+Digital Image Processing
+Human Actionand Activity Recognition
+Sentiment Analysis
+Spam Analysis
+Fake News Analysis
+Rumour Detection
+Biometric Analysis
+Computer Vision
+Natural Language Processing
+Data Mining
+Machine Learning
+Pattern Recognition
+Soft Computing
+Wireless Ad-hoc & Sensor Networks
+Evolutionary Computations in Computer Networks
+Machine Learning Techniques in Networking
+Flying Ad-hoc Sensor Networks (FANeTs)
+Security issues in Cloud Computing
+Security issues in Internet of Things (IoTs)
+Soft Computing techniques for IoT Analytics
+Security Issues in Software Defined Networking
+Energy Harvesting in IoT
+Internet of Robotics of Things
+FoG Computing
+Pattern Mining
+Digital forensics
+Information Security
+Machine learning
+BlockchainTechnology
+Recommendation Systems
+Data Structures
+Algorithms Design& Analysis
+Artificial Intelligence
+Optimization Algorithms
+Graph Theory
+Deep Learning
+Machine Learning
+Data Analytics
+Social Media Mining
+Artificial intelligence in Healthcare
+Artificial Intelligence of Things (AIoT)
+Parallel and Distributed Computing
+Cloud Computing
+Green Computing
+IoT
+Machine Learning
+Mobile Security
+Artificial Intelligence
+Machine Learning Social Media Mining
+Machine Learning
+Deep Learning
+Computer Vision
+Image Processing
+Human–Computer Interaction
+Assistive Technologies
+Emotion Monitoring
+Affective Computing
+Autonomous Vehicle
+Image Processing
+Graphics
+OCR
+Andoid & Database Management

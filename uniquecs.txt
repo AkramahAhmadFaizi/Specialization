@@ -1,0 +1,69 @@
+
+Algorithms
+Artificial Intelligence
+Audio visual classification
+Big Data Analytics
+Bigdata
+Biometric Security
+Biometric Systems
+Campus Incubators
+Compiler Construction
+Complex Network Analysis
+Computer Network
+Computer Networks
+Computer Vision
+DBMS
+DWDM
+Data Analytics
+Data Mining
+Data Mining and Operating Systems
+Data Mining and Security Engineering
+Data Science
+Data Sciences
+Data Structures
+Data mining and Databases
+Data structures and Algorithms.
+DataWarehouse & Mining
+Database
+Database Systems
+Datamining
+Deep Learning
+Deep learning
+Deployment.
+Evolutionary Computing
+Graph Algorithms
+Human Behavior
+Human Computer Interaction (HCI).
+Image Processing
+Information & Network Security
+Information Security
+Internet Technologies
+Internet of Things (IoT)
+Machine Learning
+Machine Learning and Pattern Recognition
+Machine learning
+Mobile Computing
+Movie trailer classification
+Multimedia Systems
+Natural Language Processing
+Network Security
+OS
+PCA
+Pattern Recognition
+Real Time Systems
+Recommender System
+Reversible data hiding; Wireless Sensor Networks – Energy efficiency
+Semantic Web
+Social Media Analytics
+Social Networks Analysis
+Soft Computing
+Software Engineering
+Software Engineering 
+Steganography – Image data hiding
+Text steganography
+Theory of Computation
+Web Enabled Software Engineering
+Web Mining
+Wireless Sensor Network
+Wireless Sensor Network (WSN)
+and Algorithm Design

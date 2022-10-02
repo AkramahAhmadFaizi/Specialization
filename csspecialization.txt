@@ -1,0 +1,146 @@
+Prof. Vinod Kumar
+Designation: Professor
+Qualification: BE ,M.Tech, Ph.D
+Specialization: Computer Network
+Email: vinod_k@dtu.ac.in
+Professor
+
+Prof. Rajni Jindal
+Designation: Professor
+Qualification: MCA,ME,Ph.D
+Specialization: Database Systems, Data Mining and Operating Systems
+Email: rajnijindal@dce.ac.in
+
+Prof. Daya Gupta
+Designation: Professor
+Qualification: M.Sc,Post M.Sc.Diploma(Computers Sc.),Ph.D
+Specialization: Software Engineering , Artificial Intelligence, Data Mining and Security Engineering
+Email: dgupta@dce.ac.in
+
+Prof. Manoj Kumar
+Designation: Professor
+Qualification: B.Tech, M.Tech. Ph.D
+Specialization: Information Security
+Email: mkg1109@rediffmail.com   mkumarg@dce.ac.in
+
+Prof. Anil Singh Parihar
+Designation: Professor
+Qualification: B.Tech, M.E., Ph.D
+Specialization: Pattern Recognition, Computer Vision, Soft Computing, Image Processing, Evolutionary Computing, Biometric Systems, Artificial Intelligence
+Email: anil@dtu.ac.in , parihar.anil@gmail.com
+
+Prof. Rahul Katarya
+Designation: Professor
+Qualification: B.Tech, M.Tech, Ph.D.
+Specialization: Big Data Analytics, Social Networks Analysis, Human Behavior, Multimedia Systems, Internet Technologies, Web Mining, Data Mining
+Email: rahulkatarya@dtu.ac.in , rahuldtu@gmail.com
+
+Prof. Shailender Kumar
+Designation: Professor
+Qualification: B.E (CSE), Ph.D (CSE)
+Specialization: Database Systems, Datamining, Big Data Analytics, Machine Learning, Information Security, Compiler Construction, Computer Network
+Email: shailenderkumar.verma@gmail.com, shailenderkumar@dce.ac.in
+Associate Professor
+
+Dr. Aruna Bhat
+Designation: Associate Professor
+Qualification: B.Tech, M.Tech, Ph.D
+Specialization: Machine Learning and Pattern Recognition, Campus Incubators
+Email: aruna.bhat@dtu.ac.in
+Assistant Professor
+
+Dr. R K Yadav
+Designation: Assistant Professor
+Qualification: B.E , M.Tech, Ph.D
+Specialization: Mobile Computing, Wireless Sensor Network, Computer Networks, Theory of Computation, PCA
+Email: rkyadav@dtu.ac.in
+
+Dr. Rohit Beniwal
+Designation: Assistant Professor
+Qualification: B.Tech (USICT), M.Tech (USICT), Ph.D. (NSIT)
+Specialization: Social Media Analytics, Semantic Web, Software Engineering, Web Enabled Software Engineering, Machine Learning, Evolutionary Computing, Data Mining, Web Mining
+Email: rohitbeniwal@dtu.ac.in , dr.rohitbeniwal@gmail.com
+
+Minni Jain
+Designation: Assistant Professor
+Qualification: B.Tech, M.Tech
+Specialization: Natural Language Processing
+Email: minnijain@dtu.ac.in
+
+Nipun Bansal
+Designation: Assistant Professor
+Qualification: B.Tech (IT) , M.Tech (CSE)
+Specialization: Information Security, Biometric Security, Network Security
+Email: nipunbansal@dtu.ac.in
+
+Dr. Sanjay Kumar
+Designation: Assistant Professor
+Qualification: B.Tech, M.Tech (IIT Delhi), Ph.D (IIT Delhi)
+Specialization: Complex Network Analysis, Machine Learning, Deep Learning, Data Science, Recommender System, and Algorithm Design
+Email: sanjay.kumar@dtu.ac.in
+
+Dr. Prashant Giridhar Shambharkar
+Designation: Assistant Professor
+Qualification: B.E.(CSE), M.Tech.(CSE), PhD(Computer Engineering)
+Specialization: Movie trailer classification, Audio visual classification, Data Sciences, Deep learning, Real Time Systems
+Email: prashant.shambharkar@dtu.ac.in
+
+Anurag Goel
+Designation: Assistant Professor
+Qualification: B.Tech, M.Tech., Ph.D. (Pursuing from IIIT Delhi)
+Specialization: Machine Learning, Deep Learning, Graph Algorithms
+Email: anurag@dtu.ac.in
+
+Kavinder Singh
+Designation: Assistant Professor
+Qualification: B.Tech, M.Tech, Ph.D. (pursuing)
+Specialization: Image Processing, Computer Vision, Machine Learning, Deep Learning, Pattern Recognition
+Email: kavinder@dtu.ac.in
+
+Dr. Rajeev Kumar
+Designation: Assistant Professor
+Qualification: B.Tech, M.Tech, Ph.D. ,Post-Doctorate
+Specialization: Steganography – Image data hiding, Text steganography, Reversible data hiding; Wireless Sensor Networks – Energy efficiency, Deployment.
+Email: rajeevkumar@dtu.ac.in
+
+Dr. Pawan Singh Mehra
+Designation: Assistant Professor
+Qualification: B.E., M.Tech, Ph.D.
+Specialization: Wireless Sensor Network (WSN), Internet of Things (IoT), Information & Network Security, Human Computer Interaction (HCI).
+Email: pawansingh@dtu.ac.in
+
+Anukriti Kaushal
+Designation: Assistant Professor
+Qualification: B.Tech, M.Tech
+Specialization:
+Email: anukritikaushal@dtu.ac.in
+
+Dr Ashish Girdhar
+Designation: Assistant Professor
+Qualification: B.Tech , M.Tech , Ph.D .
+Specialization: Image Processing, Data structures and Algorithms.
+Email: ashishgirdhar@dtu.ac.in
+
+Gull Kaur
+Designation: Assistant Professor
+Qualification: B.Tech , M.Tech
+Specialization: Data Analytics, Bigdata, Machine learning, Deep learning, Data mining and Databases
+Email: gullkaur@dtu.ac.in
+
+Garima Chhikara
+Designation: Assistant Professor
+Qualification: B.Tech , M.Tech
+Specialization: Algorithms, Data Structures, DBMS, OS
+Email: garimachhikara@dtu.ac.in
+
+Indu Singh
+Designation: Assistant Professor (Contractual)
+Qualification: B.TECH (CSE) , M.TECH(IS) , Pursuing PhD
+Specialization: Database, DataWarehouse & Mining, Information Security, Machine Learning
+Email: indu.singh.dtu14@gmail.com , indu_singh87@yahoo.in
+Programmer
+
+Dr. Manoj Sethi
+Qualification: M.E., LMCSI, PhD
+Specialization: DBMS, DWDM, Machine Learning
+Email: manojsethi@dce.ac.in

@@ -1,0 +1,63 @@
+Head of Department
+
+Dr. Ruchika Malhotra
+Designation: Professor
+Qualification: MCA, Ph.D, Post doc from Indiana University Purdue University Indianapolis, USA
+Specialization: Software Testing,Software Engineering,OOSE, Software Quality Management, Software Requirement and Estimation, Machine Learning , DBMS
+Email: ruchikamalhotra@dtu.ac.in
+Assistant Professor
+
+Dr. Abhilasha Sharma
+Designation: Assistant Professor
+Qualification: B.Tech, M.Tech, PhD
+Specialization: Software Engineering, Software Testing, DBMS,
+Web Technology,Web Security
+Email: abhilasha_sharma87@yahoo.com
+
+Dr. Divyashikha Sethia
+Designation: Assistant Professor
+Qualification: MTech, PhD
+Specialization:
+Email: divyashikha@dtu.ac.in
+
+​Sanjay Patidar​
+Designation: Assistant Professor
+Qualification: ​BE (CSE), ME (CSE), Pursuing Ph.D.
+Specialization: ​​Machine Learning, IoT, Data Mining, IoT Data Handling & Analysis, Cloud Computing​
+Email: sanjaypatidar@dtu.ac.in
+
+Dr. ​Sonika Dahiya
+Designation: Assistant Professor
+Qualification: B.E(CSE), M.Tech(IT), PhD (IT)
+Specialization: Soft Computing, Deep Learning, Algorithms Design and Analysis, Data Mining, Data Structures, DBMS, and Theory of Computation
+Email: sonika.dahiya@dtu.ac.in
+
+Rahul
+Designation: Assistant Professor
+Qualification: B.E.(CSE) , M.Tech(IS)
+Specialization: Database and Data Structures
+Email: rahul@dtu.ac.in
+
+Shweta Meena
+Designation: Assistant Professor
+Qualification: B.Tech(IT), M.Tech(SWE), Pursuing PhD
+Specialization: Software Engineering, Software Testing, Software Quality and Metrics, Empirical Software Engineering
+Email: shwetameena@dtu.ac.in
+
+Priya Singh
+Designation: Assistant Professor
+Qualification: B.Tech , M.Tech , Ph.D (Pursuing)
+Specialization: Deep Learning, Machine Learning, Predictive Modelling, Software Engineering, Algorithms and Programming, Cloud Native, 5G Core Network
+Email: priyasingh@dtu.ac.in
+
+Ram Murti Rawat
+Designation: Assistant Professor (Contractual)
+Qualification: M.Tech
+Specialization: Microelectronics Engnieering
+Email: rammurtiieju05@gmail.com
+
+Geetanjali Garg
+Designation: Assistant Professor (Contractual)
+Qualification: B.tech.(CSE) , M.E.(CTA)
+Specialization: Web Mining
+Email: geetanjali.garg@dtu.ac.in ,  geeta.anjali.garg@gmail.com
