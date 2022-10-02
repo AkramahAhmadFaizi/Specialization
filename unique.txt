@@ -1,14 +1,14 @@
 
 Affective Computing
-Algorithms Design& Analysis
-Andoid & Database Management
-Artificial Intelligence
-Artificial Intelligence of Things (AIoT)
-Artificial intelligence in Healthcare
-Assistive Technologies
-Autonomous Vehicle
-Biometric Analysis
-BlockchainTechnology
+Algorithms Design& Analysis/
+Andoid & Database Management/
+Artificial Intelligence/
+Artificial Intelligence of Things (AIoT)/
+Artificial intelligence in Healthcare/
+Assistive Technologies/
+Autonomous Vehicle/
+Biometric Analysis/
+BlockchainTechnology/
 Cloud Computing
 Computer Vision
 Data Analytics
