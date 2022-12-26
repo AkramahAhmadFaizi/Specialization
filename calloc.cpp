@@ -3,9 +3,7 @@
 #include<string>
 #include<set>
 #include<sstream>
-
 using namespace std;
-
 int main()
 {
 	ifstream file;
